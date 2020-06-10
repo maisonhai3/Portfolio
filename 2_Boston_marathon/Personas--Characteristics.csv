@@ -1,7 +1,7 @@
-Cluster;Age;Gender;Country;Cluster_size_count;Cluster_size_%;Pace;Gender;Age;Average_rank_overall;Average_rank_in_gender
-0;;;;;;"9,6";M;53;17625;10847
-1;;;;;;"9,7";F;39;18509;7197
-2;;;;;;"8,4";M;49;11536;7719
-3;;;;;;"8,3";M;34;10583;6887
-4;;;;;;"8,7";M;47;12983;8323
-5;;;;;;"9,3";F;45;17014;6415
+Cluster,Age,Gender,Country,Cluster_size_count,Cluster_size_%,Pace,Gender,Age,Average_rank_overall,Average_rank_in_gender
+0,,M,USA,7134,23%,9.60,M,53,17625,10847
+1,,F,USA,12596,40%,9.73,F,39,18509,7197
+2,,M,CAN,1235,4%,8.4,M,49,11536,7719
+3,,M,USA,7199,23%,8.29,M,34,10583,6887
+4,,M,others,1905,6%,8.65,M,47,12983,8623
+5,,F,CAN + others,1565,5%,9.29,F,44,17014,6415
