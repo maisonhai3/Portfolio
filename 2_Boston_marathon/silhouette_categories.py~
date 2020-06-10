@@ -1,8 +1,0 @@
-from skmodes.util import encode_features, decode_centroids
-from kmodes.util.dissim import matching_dissim, ng_dissim
-from kmodes.kprototypes import KPrototypes, _split_num_cat
-
-
-clusterPredictions = kprototypes.fit_predict(dataToAnalyze, categorical=dtaCatColumns)
-labels = kprotos.labels
-
