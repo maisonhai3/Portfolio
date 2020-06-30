@@ -1,0 +1,2 @@
+model_checkpoint_path: "Handmade_model_Augmentation_Dropout_weights"
+all_model_checkpoint_paths: "Handmade_model_Augmentation_Dropout_weights"
